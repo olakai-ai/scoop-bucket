@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0-beta.1",
+    "version": "1.0.0-beta.2",
     "architecture": {
         "64bit": {
-            "url": "https://get.olakai.ai/cli/releases/go-v1.0.0-beta.1/olakai_1.0.0-beta.1_windows_amd64.zip",
+            "url": "https://get.olakai.ai/cli/releases/go-v1.0.0-beta.2/olakai_1.0.0-beta.2_windows_amd64.zip",
             "bin": [
                 "olakai.exe"
             ],
-            "hash": "bda6fe8f8d86df3fad37ee7263319c570948d529dc39b932b32c40bf8d981e31"
+            "hash": "33f2866b9a77ef00bca413e1b5c0fcf514db4c6e3ac037fee661d12f4d9c4139"
         }
     },
     "homepage": "https://olakai.ai",
