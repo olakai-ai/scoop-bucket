@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://get.olakai.ai/cli/releases/go-v1.0.0/olakai_1.0.0_windows_amd64.zip",
+            "bin": [
+                "olakai.exe"
+            ],
+            "hash": "91acb38a9f689adb95772cd30941ddc24098de7ff33acf9e9a12b8f875353c3b"
+        }
+    },
+    "homepage": "https://olakai.ai",
+    "license": "MIT",
+    "description": "Olakai CLI for AI observability and coding agent monitoring"
+}
